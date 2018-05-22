@@ -1,6 +1,6 @@
 # PREreview 2.0
 
-![PREreview logo](static/logo.png)
+![PREreview logo](https://cdn.rawgit.com/SamanthaHindle/preprint_JournalClub/8acbaa94/PREreview_banner.png)
 
 **[Join our PREreview Slack Channel](https://join.slack.com/t/prereview/shared_invite/enQtMzYwMjQzMTk3ODMxLTZhOWQ5M2FmMTY5OTYzZDNhNDg2ZDdhODE2Y2Y4MTVjY2U0OWRiZTA5ZjM3MWM1ZTY0N2E1ODYyNWM1NTc2NDg)**
 
