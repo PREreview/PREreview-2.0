@@ -1,15 +1,14 @@
 import React from 'react';
 
+import { TextField } from '@pubsweet/ui';
+
 const styles = {
   label: {
     display: 'block'
   },
-  input: {
-    width: '100%',
-    marginBottom: 10
-  },
   select: {
-    marginBottom: 10
+    marginBottom: 10,
+    padding: 5
   }
 };
 
@@ -34,8 +33,7 @@ class SubmitPreprintForm extends React.Component {
       <form>
         <div>
           <label style={ styles.label }>Prerint url</label>
-          <input
-            style={ styles.input }
+          <TextField
             name="preprintUrl"
             placeholder="https://my-preprint"
             value={ preprint.preprintUrl || '' }
@@ -44,7 +42,7 @@ class SubmitPreprintForm extends React.Component {
         </div>
         <div>
           <label style={ styles.label }>Manucript title</label>
-          <input
+          <TextField
             style={ styles.input }
             name="title"
             placeholder=""
