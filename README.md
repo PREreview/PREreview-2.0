@@ -1,5 +1,7 @@
 # PREreview 2.0
 
+[![Join the chat at https://gitter.im/PREreview/PREreview-2.0](https://badges.gitter.im/PREreview/PREreview-2.0.svg)](https://gitter.im/PREreview/PREreview-2.0?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![PREreview logo](https://cdn.rawgit.com/SamanthaHindle/preprint_JournalClub/8acbaa94/PREreview_banner.png)
 
 **[Join our PREreview Slack Channel](https://join.slack.com/t/prereview/shared_invite/enQtMzYwMjQzMTk3ODMxLTZhOWQ5M2FmMTY5OTYzZDNhNDg2ZDdhODE2Y2Y4MTVjY2U0OWRiZTA5ZjM3MWM1ZTY0N2E1ODYyNWM1NTc2NDg)**
